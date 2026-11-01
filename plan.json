@@ -1,3 +1,13 @@
 {
-  "publications": []
+  "publications": [
+    {
+      "id": "2026-11-01-test-story",
+      "date": "2026-11-01 18:45",
+      "type": "story",
+      "plateformes": ["instagram", "facebook"],
+      "medias": ["contenu/2026-11/test/story-test.jpg"],
+      "texte": "",
+      "statut": "programmé"
+    }
+  ]
 }

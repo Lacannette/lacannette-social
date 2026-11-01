@@ -4,10 +4,27 @@
       "id": "2026-11-01-test-story",
       "date": "2026-11-01 18:45",
       "type": "story",
-      "plateformes": ["instagram", "facebook"],
-      "medias": ["contenu/2026-11/test/story-test.jpg"],
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/test/story-test.jpg"
+      ],
       "texte": "",
-      "statut": "programmé"
+      "statut": "publié",
+      "resultats": {
+        "instagram": {
+          "statut": "publié",
+          "lien": "https://www.instagram.com/stories/lacanettte/4020954950210380583",
+          "le": "2026-11-01 18:47"
+        },
+        "facebook": {
+          "statut": "publié",
+          "lien": "story publiée",
+          "le": "2026-11-01 18:47"
+        }
+      }
     }
   ]
 }

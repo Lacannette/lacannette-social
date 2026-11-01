@@ -1,0 +1,11 @@
+{
+  "graph_version": "v26.0",
+  "facebook_page_id": "1144589285401841",
+  "instagram_id": "17841447637686011",
+  "media_base_url": "https://lacannette.github.io/lacannette-social/",
+  "fuseau": "Europe/Paris",
+  "retard_max_heures": 12,
+  "tentatives_max": 3,
+  "alerte_jours_avant_expiration": 14,
+  "acces_donnees_estime": "2027-01-30"
+}

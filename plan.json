@@ -1,30 +1,107 @@
 {
   "publications": [
     {
-      "id": "2026-11-01-test-story",
-      "date": "2026-11-01 18:45",
-      "type": "story",
+      "id": "2026-11-24-sondage-format",
+      "date": "2026-11-24 18:30",
+      "type": "image",
       "plateformes": [
         "instagram",
         "facebook"
       ],
       "medias": [
-        "contenu/2026-11/test/story-test.jpg"
+        "contenu/2026-11/2026-11-24-sondage-format/01.jpg"
       ],
-      "texte": "",
-      "statut": "publié",
-      "resultats": {
-        "instagram": {
-          "statut": "publié",
-          "lien": "https://www.instagram.com/stories/lacanettte/4020954950210380583",
-          "le": "2026-11-01 18:47"
-        },
-        "facebook": {
-          "statut": "publié",
-          "lien": "story publiée",
-          "le": "2026-11-01 18:47"
-        }
-      }
+      "texte": "330 ml ou 500 ml ?\nLe format change tout : la contenance, le prix de vente, l’effet en vitrine.\nLe 330 ml pour les cafés et les matchas, le 500 ml pour les smoothies et les bubble teas.\nDites-nous en commentaire lequel vous servirez.\n\n330 or 500 ml: tell us which one fits your menu.\n\n#canettepersonnalisee #coffeeshop #bubbletea",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-25-noel-glace",
+      "date": "2026-11-25 12:00",
+      "type": "carrousel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-25-noel-glace/01.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/02.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/03.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/04.jpg"
+      ],
+      "texte": "Noël, version glacée.\nLe froid se vend aussi en décembre. Trois recettes de fêtes à servir en canette : chai glacé, latte pain d’épices, cinnamon latte.\nScellées, elles se transportent sans couler et deviennent un cadeau à offrir.\nEnregistrez ce carrousel pour votre carte de décembre.\n\nThree festive iced drinks, ready to seal and serve.\n\n#canettepersonnalisee #noel #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-26-teaser-bf",
+      "date": "2026-11-26 18:30",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-26-teaser-bf/01.jpg"
+      ],
+      "texte": "Demain.\nBlack Friday chez LaCannette : une offre sur nos 3 packs, pendant 4 jours seulement.\nActivez les notifications pour ne pas la manquer.\n\nBlack Friday starts tomorrow. Turn on notifications.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-27-black-friday",
+      "date": "2026-11-27 12:00",
+      "type": "carrousel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-27-black-friday/01.jpg",
+        "contenu/2026-11/2026-11-27-black-friday/02.jpg",
+        "contenu/2026-11/2026-11-27-black-friday/03.jpg"
+      ],
+      "texte": "Black Friday : −150 € sur les 3 packs.\nDécouverte, Pro et Ultra : la machine et vos canettes à votre logo, livraison incluse.\nDe quoi démarrer la saison 2027 avec votre marque dans chaque main.\nDu vendredi 27 au lundi 30 novembre. Votre devis sur WhatsApp : 06 26 94 09 51.\n\nBlack Friday: €150 off all three packs, until Monday 30 November.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-28-bf-rappel",
+      "date": "2026-11-28 12:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-28-bf-rappel/01.jpg"
+      ],
+      "texte": "Encore 3 jours.\n−150 € sur les packs Découverte, Pro et Ultra.\nCommander maintenant, c’est recevoir votre machine et vos canettes avant le rush du printemps.\nVotre devis sur WhatsApp : 06 26 94 09 51. Offre valable jusqu’au lundi 30 novembre.\n\nThree days left: €150 off every pack.\n\n#canettepersonnalisee #blackfriday #restaurateur",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-29-saison-2027",
+      "date": "2026-11-29 11:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-29-saison-2027/01.jpg"
+      ],
+      "texte": "Votre saison 2027 commence maintenant.\nCommandez cet hiver : machine et canettes à votre logo, tout est prêt avant vos premiers clients.\nEt jusqu’à demain soir, le Black Friday vous fait économiser 150 €.\nVotre devis sur WhatsApp : 06 26 94 09 51.\n\nOrder this winter, be ready for your first summer customers.\n\n#canettepersonnalisee #corse #restaurateur",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-30-dernier-jour",
+      "date": "2026-11-30 12:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-30-dernier-jour/01.jpg"
+      ],
+      "texte": "Dernier jour.\nLe Black Friday se termine ce soir à minuit : −150 € sur les packs Découverte, Pro et Ultra.\nDemain, les prix reviennent à la normale.\nÉcrivez-nous sur WhatsApp avant minuit : 06 26 94 09 51.\n\nLast day: €150 off, ends tonight at midnight.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
+      "statut": "programmé"
     }
   ]
 }

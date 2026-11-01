@@ -1,0 +1,63 @@
+name: Robot LaCannette
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 7 * * 1"
+  push:
+    branches: [main]
+    paths-ignore: ["rapports/**"]
+  workflow_dispatch:
+    inputs:
+      tache:
+        description: "Tâche"
+        type: choice
+        options: [test, publication, rapport]
+        default: test
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: robot
+  cancel-in-progress: false
+
+jobs:
+  robot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Choisir la tâche
+        id: t
+        env:
+          EVENT: ${{ github.event_name }}
+          CRON: ${{ github.event.schedule }}
+          TACHE: ${{ inputs.tache }}
+        run: |
+          if [ "$EVENT" = "push" ] || [ "$CRON" = "0 6 * * *" ] || [ "$TACHE" = "test" ]; then S=check.py
+          elif [ "$CRON" = "0 7 * * 1" ] || [ "$TACHE" = "rapport" ]; then S=weekly.py
+          else S=publish.py; fi
+          echo "script=$S" >> "$GITHUB_OUTPUT"
+      - name: Lancer la tâche
+        run: python scripts/${{ steps.t.outputs.script }}
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Enregistrer le suivi
+        if: always()
+        run: |
+          git config user.name "robot-lacannette"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p rapports && git add -A plan.json rapports
+          if ! git diff --cached --quiet; then
+            git commit -m "Suivi automatique"
+            git pull --rebase --quiet
+            git push
+          fi

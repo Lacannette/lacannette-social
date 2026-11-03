@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-02 | IMAGE | [ouvrir](https://www.instagram.com/p/DfPJkIXCoNh/) | Tout ce qu’il faut pour démarrer, dans un seul pack. 🧾 Machi |
 | 2026-11-01 | IMAGE | [ouvrir](https://www.instagram.com/p/DfMd7I1ibH5/) | La saison 2027 se prépare maintenant. ☀️ Livraison standard  |
 | 2026-10-31 | IMAGE | [ouvrir](https://www.instagram.com/p/DfKABacjbAq/) | Joyeux Halloween ! 🎃🦇 Petit rappel : le logo est offert sur  |
 | 2026-10-30 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfIEY-AlNjg/) | 🎃 OFFRE D’HALLOWEEN 🎃 Votre logo imprimé GRATUITEMENT sur vo |

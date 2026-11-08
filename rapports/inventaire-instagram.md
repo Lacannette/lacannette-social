@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-07 | IMAGE | [ouvrir](https://www.instagram.com/p/DfcBk3TjG8S/) | Ce que vos clients vont dire quand ils verront votre canette |
 | 2026-11-06 | IMAGE | [ouvrir](https://www.instagram.com/p/DfaF9DDkXkX/) | Encore 10 jours pour en profiter ! 🎃 Votre logo imprimé grat |
 | 2026-11-05 | IMAGE | [ouvrir](https://www.instagram.com/p/DfXklBQj_SQ/) | Scellée. Signée. Servie. ✅ Étanche, à votre logo, prête à em |
 | 2026-11-04 | IMAGE | [ouvrir](https://www.instagram.com/p/DfUTLzrCdpc/) | Le matcha du jour. 🍵 Une boisson qu’on voit à travers la can |
@@ -26,4 +27,3 @@
 | 2026-05-29 | IMAGE | [ouvrir](https://www.instagram.com/p/DY6zNHnCX1_/) | Ce qu’on vend ?   Pas la boisson. Le contenant qui la rend i |
 | 2026-05-27 | IMAGE | [ouvrir](https://www.instagram.com/p/DY1WmmRIaGb/) | Ton café latte du matin a changé de forme.  Scellé. Frais. A |
 | 2026-05-25 | IMAGE | [ouvrir](https://www.instagram.com/p/DYwIeC2Ckuf/) | Pure. Fresh. Sealed.   Vous ne vendez pas une citronnade. Vo |
-| 2026-05-23 | IMAGE | [ouvrir](https://www.instagram.com/p/DYrmgydCyzM/) | Iced tea pêche. Scellé. Frais.  Avec votre logo dessus.  La  |

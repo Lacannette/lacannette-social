@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-12 | IMAGE | [ouvrir](https://www.instagram.com/p/DfpmJJzFA9v/) | Livré au transat. ☀️ Hôtels, plages, rooftops : vos boissons |
 | 2026-11-10 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfkcjvhJRun/) | Food truck ? Servez en canette. 🚚 Zéro fuite, 3 secondes de  |
 | 2026-11-09 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfhLMfFAihW/) | 3 couvercles, 3 usages. 🥤 Classique pour les sodas et thés g |
 | 2026-11-08 | IMAGE | [ouvrir](https://www.instagram.com/p/Dfefd7BHBn_/) | 250 ml, 330 ml ou 500 ml : choisissez le format qui colle à  |
@@ -26,4 +27,3 @@
 | 2026-06-03 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DZHOH-_gmVJ/) | The cup is dead.  Vos clients ne filment pas leurs gobelets. |
 | 2026-06-02 | IMAGE | [ouvrir](https://www.instagram.com/p/DZE0wL7iphd/) | Chaque boisson mérite d’être remarquée.  Transformez un simp |
 | 2026-05-31 | IMAGE | [ouvrir](https://www.instagram.com/p/DY_7zUbCvqf/) | More than drinks.   Matcha mangue. Matcha fraise. Matcha myr |
-| 2026-05-30 | IMAGE | [ouvrir](https://www.instagram.com/p/DY8_AYyiU_r/) | 4 boissons. 4 canettes. 1 machine.  Vos clients commandent a |

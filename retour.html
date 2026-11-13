@@ -1,0 +1,20 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Connexion TikTok — LaCannette</title><meta name="robots" content="noindex"><style>:root{--bg:#FAFAF8;--ink:#0F0F0D;--muted:#5D6B62;--green:#4A7C59;--line:#DCE5DE;color-scheme:light}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans",system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.6}
+main{max-width:720px;margin:0 auto;padding:56px 22px 80px}h1{font-size:clamp(32px,6vw,46px);line-height:1.1;margin:0 0 8px}
+h2{font-size:21px;margin:34px 0 8px;color:var(--green)}p,li{color:#2a332d}.brand{font-weight:800;font-size:20px;margin-bottom:40px;display:block;color:var(--ink);text-decoration:none}
+.muted{color:var(--muted)}nav a{color:var(--green);margin-right:18px}footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);font-size:14px;color:var(--muted)}
+.box{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px;margin:24px 0}code{font-size:15px;word-break:break-all}
+button{font:inherit;border:0;border-radius:999px;padding:12px 22px;background:var(--ink);color:#fff;cursor:pointer}</style></head><body><main>
+<a class="brand" href="https://lacannette.fr">LaCannette.</a><h1>Connexion TikTok</h1><p id="msg">Lecture de la réponse de TikTok…</p>
+<div class="box" id="box" hidden><p><strong>Votre code de connexion</strong> (valable quelques minutes) :</p><p><code id="code"></code></p><button id="copy">Copier le code</button>
+<p class="muted">Collez-le dans GitHub, à l’étape indiquée. Ne le partagez avec personne.</p></div>
+<script>
+const q=new URLSearchParams(location.search), c=q.get('code'), e=q.get('error');
+const m=document.getElementById('msg');
+if(c){m.textContent='Connexion réussie.';document.getElementById('box').hidden=false;document.getElementById('code').textContent=c;
+document.getElementById('copy').onclick=async()=>{try{await navigator.clipboard.writeText(c);document.getElementById('copy').textContent='Copié'}catch(_){}}}
+else if(e){m.textContent='Connexion refusée ou annulée : '+e+'.'}else{m.textContent='Aucune réponse reçue. Relancez la connexion.'}
+</script>
+<footer>LaCannette · Porto-Vecchio, Corse, France · <a href="mailto:contact.lacannette@gmail.com">contact.lacannette@gmail.com</a><br>
+<nav><a href="index.html">Présentation</a><a href="confidentialite.html">Confidentialité</a><a href="conditions.html">Conditions</a></nav></footer></main></body></html>

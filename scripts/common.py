@@ -84,14 +84,45 @@ def is_video(path):
     return path.lower().endswith((".mp4", ".mov"))
 
 
+STATE = os.path.join(ROOT, "rapports", "statuts.json")
+KEEP = ("statut", "resultats", "erreur")
+
+
 def load_plan():
-    with open(os.path.join(ROOT, "plan.json"), encoding="utf-8") as f:
-        return json.load(f)
+    """Réunit plan.json et tous les fichiers de plans/, puis applique les statuts
+    enregistrés par le robot (rapports/statuts.json). Ainsi, déposer un nouveau
+    calendrier n'efface jamais le suivi des publications déjà parties."""
+    items = []
+    files = [os.path.join(ROOT, "plan.json")]
+    pdir = os.path.join(ROOT, "plans")
+    if os.path.isdir(pdir):
+        files += sorted(os.path.join(pdir, f) for f in os.listdir(pdir) if f.endswith(".json"))
+    for path in files:
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                items += json.load(f).get("publications", [])
+    state = {}
+    if os.path.exists(STATE):
+        with open(STATE, encoding="utf-8") as f:
+            state = json.load(f)
+    for it in items:
+        st = state.get(it.get("id"))
+        if st:
+            it.update({k: v for k, v in st.items() if k in KEEP})
+    return {"publications": items}
 
 
 def save_plan(plan):
-    with open(os.path.join(ROOT, "plan.json"), "w", encoding="utf-8") as f:
-        json.dump(plan, f, ensure_ascii=False, indent=2)
+    state = {}
+    if os.path.exists(STATE):
+        with open(STATE, encoding="utf-8") as f:
+            state = json.load(f)
+    for it in plan.get("publications", []):
+        if it.get("statut") != "programmé" or it.get("resultats"):
+            state[it["id"]] = {k: it[k] for k in KEEP if k in it}
+    os.makedirs(os.path.dirname(STATE), exist_ok=True)
+    with open(STATE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
 

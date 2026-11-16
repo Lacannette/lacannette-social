@@ -1,0 +1,367 @@
+{
+  "publications": [
+    {
+      "id": "2026-11-25-stories",
+      "date": "2026-11-25 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-25-stories/01.jpg",
+        "contenu/2026-11/2026-11-25-stories/02.jpg",
+        "contenu/2026-11/2026-11-25-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-27-stories",
+      "date": "2026-11-27 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-27-stories/01.jpg",
+        "contenu/2026-11/2026-11-27-stories/02.jpg",
+        "contenu/2026-11/2026-11-27-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-28-stories",
+      "date": "2026-11-28 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-28-stories/01.jpg",
+        "contenu/2026-11/2026-11-28-stories/02.jpg",
+        "contenu/2026-11/2026-11-28-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-29-stories",
+      "date": "2026-11-29 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-29-stories/01.jpg",
+        "contenu/2026-11/2026-11-29-stories/02.jpg",
+        "contenu/2026-11/2026-11-29-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-30-stories",
+      "date": "2026-11-30 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-30-stories/01.jpg",
+        "contenu/2026-11/2026-11-30-stories/02.jpg",
+        "contenu/2026-11/2026-11-30-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-01-kit-offert",
+      "date": "2026-12-01 12:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-01-kit-offert/01.jpg"
+      ],
+      "texte": "Offert : le kit autocollants machine.\nAvant, une machine blanche. Après, une machine à vos couleurs, avec votre logo, que vos clients remarquent au comptoir.\nJusqu’au 24 décembre, le kit est offert pour toute commande d’un pack.\nVotre devis sur WhatsApp : 06 26 94 09 51.\n\nFree machine sticker kit with every pack ordered until 24 December.\n\n#canettepersonnalisee #coffeeshop #machineascellercanette",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-02-stories",
+      "date": "2026-12-02 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-02-stories/01.jpg",
+        "contenu/2026-12/2026-12-02-stories/02.jpg",
+        "contenu/2026-12/2026-12-02-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-02-faq-1",
+      "date": "2026-12-02 18:30",
+      "type": "carrousel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-02-faq-1/01.jpg",
+        "contenu/2026-12/2026-12-02-faq-1/02.jpg",
+        "contenu/2026-12/2026-12-02-faq-1/03.jpg",
+        "contenu/2026-12/2026-12-02-faq-1/04.jpg",
+        "contenu/2026-12/2026-12-02-faq-1/05.jpg",
+        "contenu/2026-12/2026-12-02-faq-1/06.jpg"
+      ],
+      "texte": "Vos questions, nos réponses.\nMinimum de commande, délais, livraison, formats, machine : les 5 questions qu’on nous pose le plus, réunies en un carrousel.\nFaites glisser, puis enregistrez-le pour l’avoir sous la main.\nUne autre question ? Posez-la en commentaire, on y répond dans un prochain post.\n\nYour 5 most asked questions, answered.\n\n#canettepersonnalisee #packaging #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-04-stories",
+      "date": "2026-12-04 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-04-stories/01.jpg",
+        "contenu/2026-12/2026-12-04-stories/02.jpg",
+        "contenu/2026-12/2026-12-04-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-04-canette-du-mois",
+      "date": "2026-12-04 12:00",
+      "type": "carrousel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-04-canette-du-mois/01.jpg",
+        "contenu/2026-12/2026-12-04-canette-du-mois/02.jpg",
+        "contenu/2026-12/2026-12-04-canette-du-mois/03.jpg"
+      ],
+      "texte": "La canette du mois : café latte à la pistache.\nGourmand, facile à préparer en grande quantité, et étanche une fois scellé : il se transporte partout et se boit plus tard.\nLa recette est dans le carrousel : à tester sur votre carte d’hiver.\nVous la servez déjà ? Donnez-nous votre variante en commentaire.\nPhoto : The Body Club.\n\nCan of the month: pistachio latte, recipe inside.\n\n#pistachiolatte #canettepersonnalisee #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-05-stories",
+      "date": "2026-12-05 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-05-stories/01.jpg",
+        "contenu/2026-12/2026-12-05-stories/02.jpg",
+        "contenu/2026-12/2026-12-05-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-06-the-body-club",
+      "date": "2026-12-06 11:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-06-the-body-club/01.jpg"
+      ],
+      "texte": "Ils ont scellé leur marque.\nThe Body Club sert ses boissons dans des canettes à son logo : quatre recettes, une seule identité visuelle, reconnaissable sur chaque photo.\nC’est exactement ce que la canette peut apporter à votre établissement.\nVotre devis sur lacannette.fr ou sur WhatsApp : 06 26 94 09 51.\n\nThe Body Club: four drinks, one brand identity.\n\n#canettepersonnalisee #brandidentity #coffeeshop",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-06-stories",
+      "date": "2026-12-06 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-06-stories/01.jpg",
+        "contenu/2026-12/2026-12-06-stories/02.jpg",
+        "contenu/2026-12/2026-12-06-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-07-stories",
+      "date": "2026-12-07 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-07-stories/01.jpg",
+        "contenu/2026-12/2026-12-07-stories/02.jpg",
+        "contenu/2026-12/2026-12-07-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-08-comment-ca-marche",
+      "date": "2026-12-08 12:00",
+      "type": "carrousel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-08-comment-ca-marche/01.jpg",
+        "contenu/2026-12/2026-12-08-comment-ca-marche/02.jpg",
+        "contenu/2026-12/2026-12-08-comment-ca-marche/03.jpg",
+        "contenu/2026-12/2026-12-08-comment-ca-marche/04.jpg",
+        "contenu/2026-12/2026-12-08-comment-ca-marche/05.jpg"
+      ],
+      "texte": "Comment ça marche ?\nRemplir, poser le couvercle, sceller, servir : quatre étapes, quelques secondes, sans formation compliquée.\nLa machine automatique tient sur un comptoir et scelle une canette en 3 secondes.\nFaites glisser pour voir chaque étape, puis demandez votre devis sur lacannette.fr.\n\nFill, lid, seal, serve: four steps, a few seconds.\n\n#machineascellercanette #canettepersonnalisee #restaurateur",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-09-stories",
+      "date": "2026-12-09 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-09-stories/01.jpg",
+        "contenu/2026-12/2026-12-09-stories/02.jpg",
+        "contenu/2026-12/2026-12-09-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-09-reel-gobelet",
+      "date": "2026-12-09 18:30",
+      "type": "reel",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-09-reel-gobelet/01.mp4"
+      ],
+      "texte": "Un gobelet, personne ne le filme. Une canette, si.\nTransparente, scellée, à votre logo : vos clients la photographient, et votre marque voyage avec eux.\nLivraison en France et partout en Europe.\nVotre devis sur lacannette.fr.\n\nNobody films a cup. Everyone films a can.\n\n#canettepersonnalisee #coffeeshop #packaging",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-11-stories",
+      "date": "2026-12-11 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-11-stories/01.jpg",
+        "contenu/2026-12/2026-12-11-stories/02.jpg",
+        "contenu/2026-12/2026-12-11-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-11-evenementiel",
+      "date": "2026-12-11 12:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-11-evenementiel/01.jpg"
+      ],
+      "texte": "Votre événement. Vos canettes.\nAnniversaire, mariage, soirée d’entreprise : on vous loue la machine et les canettes, à votre nom, votre date ou votre logo, partout en Corse.\nUn souvenir que vos invités gardent, et qu’ils photographient.\nSur devis. Réservez 2 à 3 semaines avant : écrivez-nous sur WhatsApp au 06 26 94 09 51.\n\nCustom cans for your event in Corsica.\n\n#evenementcorse #mariagecorse #canettepersonnalisee",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-12-stories",
+      "date": "2026-12-12 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-12-stories/01.jpg",
+        "contenu/2026-12/2026-12-12-stories/02.jpg",
+        "contenu/2026-12/2026-12-12-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-13-livraison-europe",
+      "date": "2026-12-13 11:00",
+      "type": "image",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-13-livraison-europe/01.jpg"
+      ],
+      "texte": "Où est-ce que nous livrons ?\nFrance, Corse, Belgique, Luxembourg, Pays-Bas, Allemagne, Espagne et Portugal : votre machine et vos canettes arrivent chez vous, livraison incluse dans nos packs.\nAutres destinations sur demande : écrivez-nous, on étudie chaque demande.\n\nWe deliver across Europe.\n\n#packaging #canettepersonnalisee #europe",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-13-stories",
+      "date": "2026-12-13 11:00",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-13-stories/01.jpg",
+        "contenu/2026-12/2026-12-13-stories/02.jpg",
+        "contenu/2026-12/2026-12-13-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-12-14-stories",
+      "date": "2026-12-14 08:30",
+      "type": "story",
+      "plateformes": [
+        "instagram",
+        "facebook"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-14-stories/01.jpg",
+        "contenu/2026-12/2026-12-14-stories/02.jpg",
+        "contenu/2026-12/2026-12-14-stories/03.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    }
+  ]
+}

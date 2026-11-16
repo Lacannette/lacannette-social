@@ -184,6 +184,14 @@ def main():
                     raise MetaError(url_error)
                 link = PUBLISHERS[p](item, urls)
                 results[p] = {"statut": "publié", "lien": link, "le": now().strftime(FMT)}
+                if p == "tiktok" and "boîte de réception" in str(link):
+                    open_issue(f"TikTok : à publier — {item['id']}",
+                               f"**Ton contenu du {item.get('date')} est prêt sur TikTok.**\n\n"
+                               "**Action (10 secondes) :** ouvre TikTok → **Boîte de réception** → "
+                               "**Notifications système** → appuie sur le message de LaCannette Publisher, "
+                               "puis sur **Publier**.\n\n"
+                               f"**Texte à garder :**\n\n{item.get('texte', '')[:1500]}\n\n"
+                               "Une fois publié, ferme cette alerte (**Close issue**).")
                 print(f"Publié : {item['id']} sur {p}")
             except Exception as e:  # noqa: BLE001
                 tries = prev.get("tentatives", 0) + 1

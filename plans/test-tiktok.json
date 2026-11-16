@@ -1,0 +1,33 @@
+{
+  "publications": [
+    {
+      "id": "test-tiktok-photos",
+      "date": "2026-11-16 14:45",
+      "type": "carrousel",
+      "plateformes": [
+        "tiktok"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-25-noel-glace/01.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/02.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/03.jpg",
+        "contenu/2026-11/2026-11-25-noel-glace/04.jpg"
+      ],
+      "texte": "Test LaCannette : carrousel photo",
+      "statut": "programmé"
+    },
+    {
+      "id": "test-tiktok-video",
+      "date": "2026-11-16 14:45",
+      "type": "reel",
+      "plateformes": [
+        "tiktok"
+      ],
+      "medias": [
+        "contenu/2026-12/2026-12-09-reel-gobelet/01.mp4"
+      ],
+      "texte": "Test LaCannette : vidéo",
+      "statut": "programmé"
+    }
+  ]
+}

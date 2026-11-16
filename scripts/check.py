@@ -48,7 +48,7 @@ def check_plan():
         if len(it.get("texte", "")) > 2200:
             errors.append(f"{name} : texte trop long pour Instagram (2 200 caractères max)")
         for p in it.get("plateformes", []):
-            if p not in ("instagram", "facebook"):
+            if p not in ("instagram", "facebook", "tiktok"):
                 errors.append(f"{name} : plateforme inconnue « {p} »")
     return errors, todo
 
@@ -119,6 +119,25 @@ def main():
                 write_report("inventaire-instagram.md", "\n".join(inv) + "\n")
             except MetaError as e:
                 lines.append(f"- Inventaire Instagram : non lisible ({e})")
+
+    if os.environ.get("TIKTOK_CLIENT_SECRET"):
+        try:
+            import tiktok
+            end = tiktok.refresh_deadline()
+            if end is None:
+                lines.append("- TikTok : compte non connecté")
+            else:
+                user = tiktok.user_info()
+                days = (end - now().date()).days
+                lines.append(f"- TikTok : Vérifié ({user.get('display_name', '')}) — autorisation jusqu'au "
+                             f"{end.strftime('%d/%m/%Y')} (dans {days} jours)")
+                if days <= CONFIG["alerte_jours_avant_expiration"]:
+                    open_issue(f"Renouveler la connexion TikTok avant le {end.strftime('%d/%m/%Y')}",
+                               "**Impact si rien n'est fait :** les envois TikTok s'arrêtent.\n\n"
+                               "**Action :** demande à Claude la procédure (2 minutes).")
+        except Exception as e:  # noqa: BLE001
+            lines.append("- TikTok : ÉCHEC")
+            problems.append(f"Connexion TikTok refusée : {e}")
 
     errors, todo = check_plan()
     lines.append(f"- Calendrier : {todo} publication(s) programmée(s), "

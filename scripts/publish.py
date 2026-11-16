@@ -120,7 +120,12 @@ def publish_facebook(item, urls):
     raise MetaError(f"Type inconnu : {t}")
 
 
-PUBLISHERS = {"instagram": publish_instagram, "facebook": publish_facebook}
+def publish_tiktok(item, urls):
+    import tiktok
+    return tiktok.publish(item, urls)
+
+
+PUBLISHERS = {"instagram": publish_instagram, "facebook": publish_facebook, "tiktok": publish_tiktok}
 
 
 def main():

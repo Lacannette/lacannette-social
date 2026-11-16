@@ -1,1 +1,22 @@
-{}
+{
+  "test-tiktok-photos": {
+    "statut": "publié",
+    "resultats": {
+      "tiktok": {
+        "statut": "publié",
+        "lien": "dans ta boîte de réception TikTok, à publier",
+        "le": "2026-11-16 14:54"
+      }
+    }
+  },
+  "test-tiktok-video": {
+    "statut": "publié",
+    "resultats": {
+      "tiktok": {
+        "statut": "publié",
+        "lien": "dans ta boîte de réception TikTok, à publier",
+        "le": "2026-11-16 14:54"
+      }
+    }
+  }
+}

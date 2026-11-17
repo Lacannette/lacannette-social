@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-16 | IMAGE | [ouvrir](https://www.instagram.com/p/Dfz16ZzCaaU/) | Plus jamais à court de canettes. 📦 Réassort à votre logo : v |
 | 2026-11-15 | IMAGE | [ouvrir](https://www.instagram.com/p/DfwhB1dGT7B/) | Dernier jour ! 🎃 Ce soir minuit, fin du logo offert sur le P |
 | 2026-11-14 | IMAGE | [ouvrir](https://www.instagram.com/p/DfuDHD4Cr5h/) | Cafés, restos, hôtels, food trucks : une seule machine, quat |
 | 2026-11-13 | IMAGE | [ouvrir](https://www.instagram.com/p/DfsHgg2Cbss/) | Plus que 3 jours ! ⏳ Logo offert sur le Pack Découverte : 1  |
@@ -26,4 +27,3 @@
 | 2026-07-13 | IMAGE | [ouvrir](https://www.instagram.com/p/DaubzAhCiND/) | Vous aussi, adoptez vos canettes pour votre coffee shop. Vos |
 | 2026-07-04 | IMAGE | [ouvrir](https://www.instagram.com/p/DaX95kWCzMq/) | LaCannette ne vend pas de boissons.  On vend aux coffee shop |
 | 2026-06-12 | IMAGE | [ouvrir](https://www.instagram.com/p/DZeiMm_CSL-/) | C’est la canette qui fait la différence.  📩 DM |
-| 2026-06-04 | IMAGE | [ouvrir](https://www.instagram.com/p/DZJ39RLi_PA/) | Same drink. Different impact.  The recipe didn’t change. The |

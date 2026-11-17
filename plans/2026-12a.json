@@ -269,13 +269,15 @@
       "plateformes": [
         "instagram",
         "facebook",
-        "tiktok"
+        "tiktok",
+        "youtube"
       ],
       "medias": [
         "contenu/2026-12/2026-12-09-reel-gobelet/01.mp4"
       ],
       "texte": "Un gobelet, personne ne le filme. Une canette, si.\nTransparente, scellée, à votre logo : vos clients la photographient, et votre marque voyage avec eux.\nLivraison en France et partout en Europe.\nVotre devis sur lacannette.fr.\n\nNobody films a cup. Everyone films a can.\n\n#canettepersonnalisee #coffeeshop #packaging",
-      "statut": "programmé"
+      "statut": "programmé",
+      "couverture": "contenu/2026-12/2026-12-09-reel-gobelet/couverture.jpg"
     },
     {
       "id": "2026-12-11-stories",

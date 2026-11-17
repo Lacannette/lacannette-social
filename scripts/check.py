@@ -48,7 +48,7 @@ def check_plan():
         if len(it.get("texte", "")) > 2200:
             errors.append(f"{name} : texte trop long pour Instagram (2 200 caractères max)")
         for p in it.get("plateformes", []):
-            if p not in ("instagram", "facebook", "tiktok"):
+            if p not in ("instagram", "facebook", "tiktok", "youtube"):
                 errors.append(f"{name} : plateforme inconnue « {p} »")
     return errors, todo
 
@@ -138,6 +138,22 @@ def main():
         except Exception as e:  # noqa: BLE001
             lines.append("- TikTok : ÉCHEC")
             problems.append(f"Connexion TikTok refusée : {e}")
+
+    if os.environ.get("ZERNIO_API_KEY"):
+        try:
+            import zernio
+            accs = zernio.accounts()
+            for plat, label in (("tiktok", "TikTok"), ("youtube", "YouTube")):
+                found = [a for a in accs if a.get("platform") == plat]
+                if found:
+                    lines.append(f"- {label} (Zernio, publication automatique) : Vérifié "
+                                 f"(@{found[0].get('username') or found[0].get('displayName')})")
+                else:
+                    lines.append(f"- {label} (Zernio) : compte non connecté")
+                    problems.append(f"{label} n'est plus connecté dans Zernio.")
+        except Exception as e:  # noqa: BLE001
+            lines.append("- Zernio : ÉCHEC")
+            problems.append(f"Connexion Zernio refusée : {e}")
 
     errors, todo = check_plan()
     lines.append(f"- Calendrier : {todo} publication(s) programmée(s), "

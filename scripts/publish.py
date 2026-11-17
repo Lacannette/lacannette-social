@@ -6,7 +6,16 @@ import requests
 
 from common import (CONFIG, IG, PAGE, TOKEN, FMT, MetaError, get, post, rupload,
                     now, parse_date, media_url, is_video, load_plan, save_plan,
-                    open_issue, scrub)
+                    open_issue)
+from common import scrub as _scrub_meta
+
+
+def scrub(text):
+    try:
+        import zernio
+        return zernio.scrub(_scrub_meta(text))
+    except Exception:  # noqa: BLE001
+        return _scrub_meta(text)
 
 TYPES = ("image", "carrousel", "story", "reel")
 
@@ -121,11 +130,22 @@ def publish_facebook(item, urls):
 
 
 def publish_tiktok(item, urls):
+    import zernio
+    if zernio.enabled():
+        return zernio.publish_tiktok(item, urls)
     import tiktok
     return tiktok.publish(item, urls)
 
 
-PUBLISHERS = {"instagram": publish_instagram, "facebook": publish_facebook, "tiktok": publish_tiktok}
+def publish_youtube(item, urls):
+    import zernio
+    if not zernio.enabled():
+        raise MetaError("Secret ZERNIO_API_KEY absent : YouTube indisponible")
+    return zernio.publish_youtube(item, urls)
+
+
+PUBLISHERS = {"instagram": publish_instagram, "facebook": publish_facebook,
+              "tiktok": publish_tiktok, "youtube": publish_youtube}
 
 
 def main():

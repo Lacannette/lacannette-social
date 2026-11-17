@@ -1,0 +1,19 @@
+{
+  "publications": [
+    {
+      "id": "2026-11-18-test-reel-gobelet",
+      "date": "2026-11-18 12:00",
+      "type": "reel",
+      "statut": "programmé",
+      "texte": "Un gobelet, personne ne le filme. Une canette, si.\nTransparente, scellée, à votre logo : vos clients la photographient, et votre marque voyage avec eux.\nLivraison en France et partout en Europe.\nVotre devis sur lacannette.fr.\n\nNobody films a cup. Everyone films a can.\n\n#canettepersonnalisee #coffeeshop #packaging",
+      "medias": [
+        "contenu/2026-12/2026-12-09-reel-gobelet/01.mp4"
+      ],
+      "couverture": "contenu/2026-12/2026-12-09-reel-gobelet/couverture.jpg",
+      "plateformes": [
+        "tiktok",
+        "youtube"
+      ]
+    }
+  ]
+}

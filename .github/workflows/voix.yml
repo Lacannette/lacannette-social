@@ -6,19 +6,43 @@ permissions:
 jobs:
   voix:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - run: pip install edge-tts==7.0.2
-      - name: Générer
+          python-version: "3.11"
+      - name: Voix Microsoft (Edge)
+        continue-on-error: true
         run: |
+          pip install -q --upgrade edge-tts
           for v in fr-FR-HenriNeural fr-FR-DeniseNeural fr-FR-RemyMultilingualNeural fr-FR-VivienneMultilingualNeural; do
-            edge-tts --voice "$v" --rate=+4% --file voix/texte.txt --write-media "voix/$v.mp3"
+            edge-tts --voice "$v" --rate=+4% --file voix/texte.txt --write-media "voix/edge-$v.mp3"
           done
+      - name: Voix Piper (libre)
+        continue-on-error: true
+        run: |
+          pip install -q piper-tts
+          for v in fr_FR-siwis-medium fr_FR-tom-medium fr_FR-upmc-medium; do
+            python -m piper.download_voices "$v" || true
+            python -m piper -m "$v" -f "voix/piper-$v.wav" < voix/texte.txt
+          done
+      - name: Voix Kokoro (libre)
+        continue-on-error: true
+        run: |
+          sudo apt-get install -y -qq espeak-ng > /dev/null
+          pip install -q "kokoro>=0.9" soundfile
+          python - <<'PY'
+          from kokoro import KPipeline
+          import soundfile as sf, numpy as np
+          t = open("voix/texte.txt", encoding="utf-8").read()
+          p = KPipeline(lang_code="f")
+          a = np.concatenate([au for _, _, au in p(t, voice="ff_siwis", speed=1.05)])
+          sf.write("voix/kokoro-ff_siwis.wav", a, 24000)
+          PY
       - name: Enregistrer
         run: |
+          for f in voix/*.wav; do [ -f "$f" ] && ffmpeg -loglevel error -y -i "$f" -b:a 160k "${f%.wav}.mp3" && rm "$f"; done
           git config user.name "robot-lacannette"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add voix

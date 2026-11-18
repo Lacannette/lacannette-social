@@ -118,9 +118,13 @@ def publish_tiktok(item, urls, privacy="PUBLIC_TO_EVERYONE"):
         media = [{"type": "image", "url": u} for u in urls[:35]]
         settings.update({"media_type": "PHOTO", "photo_cover_index": 0, "title": _first_line(text, 90),
                          "description": text[:4000]})
+    psd = {"tiktokSettings": settings}
+    if video and item.get("couverture"):
+        # Zernio ajoute l'image en première image fixe et la définit comme couverture TikTok
+        psd["videoCoverImageUrl"] = media_url(item["couverture"])
     body = {"content": text[:2200], "mediaItems": media, "tiktokSettings": settings,
             "platforms": [{"platform": "tiktok", "accountId": account_id("tiktok"),
-                           "platformSpecificData": {"tiktokSettings": settings}}],
+                           "platformSpecificData": psd}],
             "publishNow": True}
     code, data = _req("POST", "/posts", body, timeout=600)
     return _result(code, data, "tiktok")

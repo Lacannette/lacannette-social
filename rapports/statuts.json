@@ -83,5 +83,25 @@
         "le": "2026-11-18 18:20"
       }
     }
+  },
+  "2026-11-18-a-la-une-concept": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4033266715706480930 | https://www.instagram.com/stories/lacanettte/4033266872405659567 | https://www.instagram.com/stories/lacanettte/4033266945957026709 | https://www.instagram.com/stories/lacanettte/4033267130011435679",
+        "le": "2026-11-18 18:29"
+      }
+    }
+  },
+  "2026-11-18-a-la-une-machine": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4033267289940248223 | https://www.instagram.com/stories/lacanettte/4033267445909640351 | https://www.instagram.com/stories/lacanettte/4033267523445551373 | https://www.instagram.com/stories/lacanettte/4033267592819373113",
+        "le": "2026-11-18 18:30"
+      }
+    }
   }
 }

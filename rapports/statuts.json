@@ -75,12 +75,12 @@
     }
   },
   "2026-11-18-a-la-une-best-sellers": {
-    "statut": "programmé",
+    "statut": "publié",
     "resultats": {
       "instagram": {
-        "statut": "nouvel essai",
-        "erreur": "Fichier inaccessible (HTTP 404) : https://lacannette.github.io/lacannette-social/contenu/2026-11/2026-11-18-a-la-une-best-sellers/01.jpg",
-        "tentatives": 1
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4033262306578627362 | https://www.instagram.com/stories/lacanettte/4033262463932139780 | https://www.instagram.com/stories/lacanettte/4033262542290123796 | https://www.instagram.com/stories/lacanettte/4033262666256264978",
+        "le": "2026-11-18 18:20"
       }
     }
   }

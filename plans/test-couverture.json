@@ -1,0 +1,19 @@
+{
+  "publications": [
+    {
+      "id": "test-couverture-tiktok",
+      "date": "2026-11-18 13:45",
+      "type": "reel",
+      "texte": "Test couverture (privé) – à supprimer",
+      "statut": "programmé",
+      "prive": true,
+      "medias": [
+        "contenu/2026-11/2026-11-20-reel-3-secondes/01.mp4"
+      ],
+      "couverture": "contenu/2026-11/2026-11-20-reel-3-secondes/couverture.jpg",
+      "plateformes": [
+        "tiktok"
+      ]
+    }
+  ]
+}

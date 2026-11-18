@@ -106,6 +106,8 @@ def publish_tiktok(item, urls, privacy="PUBLIC_TO_EVERYONE"):
     t = item["type"]
     if t == "story":
         return "non concerné (pas de story sur TikTok)"
+    if item.get("prive"):
+        privacy = "SELF_ONLY"  # essai visible uniquement par le compte
     text = item.get("texte_tiktok", item.get("texte", ""))
     video = t == "reel" or any(is_video(u) for u in urls)
     settings = {"privacy_level": privacy, "allow_comment": True, "allow_duet": True, "allow_stitch": True,

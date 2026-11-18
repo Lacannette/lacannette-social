@@ -13,7 +13,7 @@ on:
       tache:
         description: "Tâche"
         type: choice
-        options: [test, publication, rapport, zernio-test, tiktok-lien, tiktok-connexion]
+        options: [test, publication, rapport, zernio-test, tiktok-lien, tiktok-connexion, photo-profil]
         default: test
 
 permissions:
@@ -42,6 +42,7 @@ jobs:
           TACHE: ${{ inputs.tache }}
         run: |
           if [ "$TACHE" = "zernio-test" ]; then S="zernio.py test"
+          elif [ "$TACHE" = "photo-profil" ]; then S=profil.py
           elif [ "$TACHE" = "tiktok-lien" ]; then S="tiktok.py lien"
           elif [ "$TACHE" = "tiktok-connexion" ]; then S="tiktok.py connexion"
           elif [ "$EVENT" = "push" ] || [ "$CRON" = "0 6 * * *" ] || [ "$TACHE" = "test" ]; then S=check.py

@@ -1,0 +1,36 @@
+{
+  "publications": [
+    {
+      "id": "2026-11-18-a-la-une-devis",
+      "date": "2026-11-18 17:45",
+      "type": "story",
+      "plateformes": [
+        "instagram"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-18-a-la-une-devis/01.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-devis/02.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-devis/03.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-devis/04.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-18-a-la-une-evenements",
+      "date": "2026-11-18 17:46",
+      "type": "story",
+      "plateformes": [
+        "instagram"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-18-a-la-une-evenements/01.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-evenements/02.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-evenements/03.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-evenements/04.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    }
+  ]
+}

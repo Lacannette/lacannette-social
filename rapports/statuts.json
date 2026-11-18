@@ -18,5 +18,20 @@
         "le": "2026-11-16 14:54"
       }
     }
+  },
+  "2026-11-18-test-reel-gobelet": {
+    "statut": "publié",
+    "resultats": {
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-18 12:43"
+      },
+      "youtube": {
+        "statut": "publié",
+        "lien": "https://www.youtube.com/watch?v=aAKx0E3lZ-M",
+        "le": "2026-11-18 12:43"
+      }
+    }
   }
 }

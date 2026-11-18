@@ -33,5 +33,15 @@
         "le": "2026-11-18 12:43"
       }
     }
+  },
+  "test-couverture-tiktok": {
+    "statut": "programmé",
+    "resultats": {
+      "tiktok": {
+        "statut": "nouvel essai",
+        "erreur": "Zernio refuse : TikTok business accounts publish videos as public only: /business/video/publish/ has no privacy setting. Use privacy_level PUBLIC_TO_EVERYONE, or draft: true to send the video to the TikTok app drafts and pick the audience there. Photo posts keep their privacy levels. (HTTP 400)",
+        "tentatives": 1
+      }
+    }
   }
 }

@@ -43,5 +43,15 @@
         "tentatives": 1
       }
     }
+  },
+  "test-couverture-tiktok-2": {
+    "statut": "publié",
+    "resultats": {
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-18 13:46"
+      }
+    }
   }
 }

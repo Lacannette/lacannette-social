@@ -16,7 +16,7 @@ jobs:
         continue-on-error: true
         run: |
           pip install -q --upgrade edge-tts
-          for v in fr-FR-HenriNeural fr-FR-DeniseNeural fr-FR-RemyMultilingualNeural fr-FR-VivienneMultilingualNeural; do
+          for v in fr-FR-HenriNeural; do
             edge-tts --voice "$v" --rate=+4% --file voix/texte.txt --write-media "voix/edge-$v.mp3"
           done
       - name: Voix Piper (libre)

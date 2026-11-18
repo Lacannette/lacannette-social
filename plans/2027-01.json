@@ -1,66 +1,15 @@
 {
   "publications": [
     {
-      "id": "2027-01-05-reel-3-secondes",
+      "id": "2027-01-05-reel-gobelet-canette",
       "date": "2027-01-05 18:30",
-      "type": "reel",
-      "texte": "Trois secondes pour sceller une canette.\nVotre boisson, votre logo, zéro fuite : la canette se scelle derrière votre comptoir, en quelques secondes, avec notre machine.\nÉcrivez-nous sur WhatsApp au 06 26 94 09 51 pour recevoir une simulation à votre logo.\n\nSealed in 3 seconds, with your logo.\n\n#canettepersonnalisee #coffeeshop #lacannette",
-      "statut": "programmé",
-      "medias": [
-        "contenu/2027-01/2027-01-05-reel-3-secondes/01.mp4"
-      ],
-      "couverture": "contenu/2027-01/2027-01-05-reel-3-secondes/couverture.jpg",
-      "plateformes": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ]
-    },
-    {
-      "id": "2027-01-08-reel-gobelet-canette",
-      "date": "2027-01-08 18:30",
       "type": "reel",
       "texte": "Gobelet contre canette : 3 à 0.\nPlus photogénique, scellée sans la moindre fuite, et votre logo dans toutes les mains : la canette transforme chaque boisson en publicité.\nEnvoyez-nous votre logo sur WhatsApp au 06 26 94 09 51 : nous vous retournons une simulation.\n\nCup vs can: 3–0.\n\n#canettepersonnalisee #emballage #lacannette",
       "statut": "programmé",
       "medias": [
-        "contenu/2027-01/2027-01-08-reel-gobelet-canette/01.mp4"
+        "contenu/2027-01/2027-01-05-reel-gobelet-canette/01.mp4"
       ],
-      "couverture": "contenu/2027-01/2027-01-08-reel-gobelet-canette/couverture.jpg",
-      "plateformes": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ]
-    },
-    {
-      "id": "2027-01-12-reel-formats",
-      "date": "2027-01-12 18:30",
-      "type": "reel",
-      "texte": "Quel format pour vos boissons ?\n330 ml classique ou slim, 500 ml classique ou slim, et aussi 250 et 650 ml. Nos best-sellers : la 330 ml classique et la 500 ml slim. Trois couvercles au choix, tous à votre logo.\nDites-nous ce que vous servez sur WhatsApp au 06 26 94 09 51 : nous vous conseillons le bon format.\n\nEvery size, with your logo.\n\n#canette #packaging #lacannette",
-      "statut": "programmé",
-      "medias": [
-        "contenu/2027-01/2027-01-12-reel-formats/01.mp4"
-      ],
-      "couverture": "contenu/2027-01/2027-01-12-reel-formats/couverture.jpg",
-      "plateformes": [
-        "instagram",
-        "facebook",
-        "tiktok",
-        "youtube"
-      ]
-    },
-    {
-      "id": "2027-01-15-reel-vos-clients",
-      "date": "2027-01-15 18:30",
-      "type": "reel",
-      "texte": "Vos clients font votre pub.\nUne boisson dans une canette à votre logo, c’est une photo partagée, vue par leurs amis, qui demandent où la trouver.\nÉcrivez-nous sur WhatsApp au 06 26 94 09 51 pour lancer vos canettes personnalisées.\nPhoto : The Body Club.\n\nYour customers are your best advertising.\n\n#marketing #coffeeshop #lacannette",
-      "statut": "programmé",
-      "medias": [
-        "contenu/2027-01/2027-01-15-reel-vos-clients/01.mp4"
-      ],
-      "couverture": "contenu/2027-01/2027-01-15-reel-vos-clients/couverture.jpg",
+      "couverture": "contenu/2027-01/2027-01-05-reel-gobelet-canette/couverture.jpg",
       "plateformes": [
         "instagram",
         "facebook",

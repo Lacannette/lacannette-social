@@ -1,12 +1,11 @@
 {
   "publications": [
     {
-      "id": "test-couverture-tiktok",
+      "id": "test-couverture-tiktok-2",
       "date": "2026-11-18 13:45",
       "type": "reel",
-      "texte": "Test couverture (privé) – à supprimer",
+      "texte": "Trois secondes pour sceller une canette.\nVotre boisson, votre logo, zéro fuite : la canette se scelle derrière votre comptoir, en quelques secondes, avec notre machine.\nÉcrivez-nous sur WhatsApp au 06 26 94 09 51 pour recevoir une simulation à votre logo.\n\nSealed in 3 seconds, with your logo.\n\n#canettepersonnalisee #coffeeshop #lacannette",
       "statut": "programmé",
-      "prive": true,
       "medias": [
         "contenu/2026-11/2026-11-20-reel-3-secondes/01.mp4"
       ],

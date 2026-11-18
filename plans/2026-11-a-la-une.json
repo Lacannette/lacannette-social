@@ -31,6 +31,22 @@
       ],
       "texte": "",
       "statut": "programmé"
+    },
+    {
+      "id": "2026-11-18-a-la-une-best-sellers",
+      "date": "2026-11-18 18:15",
+      "type": "story",
+      "plateformes": [
+        "instagram"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-18-a-la-une-best-sellers/01.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-best-sellers/02.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-best-sellers/03.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-best-sellers/04.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
     }
   ]
 }

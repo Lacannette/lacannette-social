@@ -47,6 +47,38 @@
       ],
       "texte": "",
       "statut": "programmé"
+    },
+    {
+      "id": "2026-11-18-a-la-une-concept",
+      "date": "2026-11-18 18:26",
+      "type": "story",
+      "plateformes": [
+        "instagram"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-18-a-la-une-concept/01.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-concept/02.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-concept/03.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-concept/04.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
+    },
+    {
+      "id": "2026-11-18-a-la-une-machine",
+      "date": "2026-11-18 18:27",
+      "type": "story",
+      "plateformes": [
+        "instagram"
+      ],
+      "medias": [
+        "contenu/2026-11/2026-11-18-a-la-une-machine/01.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-machine/02.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-machine/03.jpg",
+        "contenu/2026-11/2026-11-18-a-la-une-machine/04.jpg"
+      ],
+      "texte": "",
+      "statut": "programmé"
     }
   ]
 }

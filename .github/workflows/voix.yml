@@ -1,0 +1,26 @@
+name: Voix off (essais)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  voix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install edge-tts==7.0.2
+      - name: Générer
+        run: |
+          for v in fr-FR-HenriNeural fr-FR-DeniseNeural fr-FR-RemyMultilingualNeural fr-FR-VivienneMultilingualNeural; do
+            edge-tts --voice "$v" --rate=+4% --file voix/texte.txt --write-media "voix/$v.mp3"
+          done
+      - name: Enregistrer
+        run: |
+          git config user.name "robot-lacannette"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add voix
+          git commit -m "Essais de voix off" || exit 0
+          git pull --rebase --quiet && git push

@@ -103,5 +103,30 @@
         "le": "2026-11-18 18:30"
       }
     }
+  },
+  "2026-11-20-reel-3-secondes": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/reel/Df-MmoIlI3D/",
+        "le": "2026-11-20 18:31"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/reel/2647165512391306",
+        "le": "2026-11-20 18:31"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-20 18:32"
+      },
+      "youtube": {
+        "statut": "publié",
+        "lien": "https://www.youtube.com/watch?v=8LWoBGICpfg",
+        "le": "2026-11-20 18:32"
+      }
+    }
   }
 }

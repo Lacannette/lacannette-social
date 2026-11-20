@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-19 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/Df7ntW7xNOf/) | L’ube du jour. 💜 La couleur qui arrête le scroll. #canettepe |
 | 2026-11-18 | IMAGE | [ouvrir](https://www.instagram.com/p/Df4WSM6hyO2/) | L’ube du jour. 💜 La couleur qui arrête le scroll. #canettepe |
 | 2026-11-17 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/Df2eHwzMfhX/) | Commander chez LaCannette, c’est 4 étapes : vous écrivez, vo |
 | 2026-11-16 | IMAGE | [ouvrir](https://www.instagram.com/p/Dfz16ZzCaaU/) | Plus jamais à court de canettes. 📦 Réassort à votre logo : v |
@@ -26,4 +27,3 @@
 | 2026-10-27 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfAZbjgoBNw/) | Gobelet ou canette ? On vous donne 4 raisons de changer. 👇 Z |
 | 2026-10-26 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/De9IEZbDYCH/) | 3 secondes. C’est le temps qu’il faut pour sceller une boiss |
 | 2026-09-19 | VIDEO | [ouvrir](https://www.instagram.com/reel/DdeVcWbqLft/) | Rendez vos boissons aussi belles que bonnes avec La Cannette |
-| 2026-07-13 | IMAGE | [ouvrir](https://www.instagram.com/p/DaubzAhCiND/) | Vous aussi, adoptez vos canettes pour votre coffee shop. Vos |

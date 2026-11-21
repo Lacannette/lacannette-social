@@ -128,5 +128,20 @@
         "le": "2026-11-20 18:32"
       }
     }
+  },
+  "2026-11-21-comparaison": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/p/DgA2HBeF0Nh/",
+        "le": "2026-11-21 19:12"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/1144589285401841_122137606815340795",
+        "le": "2026-11-21 19:12"
+      }
+    }
   }
 }

@@ -2,6 +2,8 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-20 | VIDEO | [ouvrir](https://www.instagram.com/reel/Df-MmoIlI3D/) | Trois secondes pour sceller une canette. Votre boisson, votr |
+| 2026-11-20 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/Df-JFoCM_v_/) | Manuelle ou automatique ? 🤔 Manuelle à 440 € pour démarrer,  |
 | 2026-11-19 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/Df7ntW7xNOf/) | L’ube du jour. 💜 La couleur qui arrête le scroll. #canettepe |
 | 2026-11-18 | IMAGE | [ouvrir](https://www.instagram.com/p/Df4WSM6hyO2/) | L’ube du jour. 💜 La couleur qui arrête le scroll. #canettepe |
 | 2026-11-17 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/Df2eHwzMfhX/) | Commander chez LaCannette, c’est 4 étapes : vous écrivez, vo |
@@ -25,5 +27,3 @@
 | 2026-10-29 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfFjBUJlavN/) | Votre carte, en version canette. 4 idées à mettre au menu ce |
 | 2026-10-28 | IMAGE | [ouvrir](https://www.instagram.com/p/DfCRmLqAmNr/) | Question du jour : vous serviriez quoi en canette ? 🥤 Matcha |
 | 2026-10-27 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfAZbjgoBNw/) | Gobelet ou canette ? On vous donne 4 raisons de changer. 👇 Z |
-| 2026-10-26 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/De9IEZbDYCH/) | 3 secondes. C’est le temps qu’il faut pour sceller une boiss |
-| 2026-09-19 | VIDEO | [ouvrir](https://www.instagram.com/reel/DdeVcWbqLft/) | Rendez vos boissons aussi belles que bonnes avec La Cannette |

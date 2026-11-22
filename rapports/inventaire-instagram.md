@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-22 | IMAGE | [ouvrir](https://www.instagram.com/p/DgCindsN40w/) | Vendredi, quelque chose arrive. 👀 Activez les notifications  |
 | 2026-11-21 | IMAGE | [ouvrir](https://www.instagram.com/p/DgA2HBeF0Nh/) | Même boisson. Autre impact. En gobelet, votre boisson est bo |
 | 2026-11-21 | IMAGE | [ouvrir](https://www.instagram.com/p/DgAErluMuDq/) | Ce que vous allez dire après quelques semaines avec LaCannet |
 | 2026-11-20 | VIDEO | [ouvrir](https://www.instagram.com/reel/Df-MmoIlI3D/) | Trois secondes pour sceller une canette. Votre boisson, votr |
@@ -26,4 +27,3 @@
 | 2026-11-01 | IMAGE | [ouvrir](https://www.instagram.com/p/DfMd7I1ibH5/) | La saison 2027 se prépare maintenant. ☀️ Livraison standard  |
 | 2026-10-31 | IMAGE | [ouvrir](https://www.instagram.com/p/DfKABacjbAq/) | Joyeux Halloween ! 🎃🦇 Petit rappel : le logo est offert sur  |
 | 2026-10-30 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfIEY-AlNjg/) | 🎃 OFFRE D’HALLOWEEN 🎃 Votre logo imprimé GRATUITEMENT sur vo |
-| 2026-10-29 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfFjBUJlavN/) | Votre carte, en version canette. 4 idées à mettre au menu ce |

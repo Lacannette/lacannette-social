@@ -143,5 +143,26 @@
         "le": "2026-11-21 19:12"
       }
     }
+  },
+  "2026-11-26-teaser-bf": {
+    "statut": "annulé"
+  },
+  "2026-11-22-story-bf": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4036105560180768016",
+        "le": "2026-11-22 16:28"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "story publiée",
+        "le": "2026-11-22 16:28"
+      }
+    }
+  },
+  "2026-11-25-stories": {
+    "statut": "annulé"
   }
 }

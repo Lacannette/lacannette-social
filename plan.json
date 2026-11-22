@@ -46,11 +46,12 @@
         "contenu/2026-11/2026-11-26-teaser-bf/01.jpg"
       ],
       "texte": "Demain.\nBlack Friday chez LaCannette : une offre sur nos 3 packs, pendant 4 jours seulement.\nActivez les notifications pour ne pas la manquer.\n\nBlack Friday starts tomorrow. Turn on notifications.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
-      "statut": "programmé"
+      "statut": "annulé",
+      "note": "annulé : le Black Friday a commencé le 22 novembre"
     },
     {
       "id": "2026-11-27-black-friday",
-      "date": "2026-11-27 12:00",
+      "date": "2026-11-23 12:00",
       "type": "carrousel",
       "plateformes": [
         "instagram",
@@ -62,7 +63,7 @@
         "contenu/2026-11/2026-11-27-black-friday/02.jpg",
         "contenu/2026-11/2026-11-27-black-friday/03.jpg"
       ],
-      "texte": "Black Friday : −150 € sur les 3 packs.\nDécouverte, Pro et Ultra : la machine et vos canettes à votre logo, livraison incluse.\nDe quoi démarrer la saison 2027 avec votre marque dans chaque main.\nDu vendredi 27 au lundi 30 novembre. Votre devis sur WhatsApp : 06 26 94 09 51.\n\nBlack Friday: €150 off all three packs, until Monday 30 November.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
+      "texte": "Black Friday : −150 € sur les 3 packs.\nDécouverte, Pro et Ultra : la machine et vos canettes à votre logo, livraison incluse.\nDe quoi démarrer la saison 2027 avec votre marque dans chaque main.\nJusqu’au lundi 30 novembre. Votre devis sur WhatsApp : 06 26 94 09 51.\n\nBlack Friday: €150 off all three packs, until Monday 30 November.\n\n#canettepersonnalisee #blackfriday #coffeeshop",
       "statut": "programmé"
     },
     {

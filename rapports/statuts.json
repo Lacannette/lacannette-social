@@ -181,12 +181,12 @@
     }
   },
   "2026-11-27-black-friday": {
-    "statut": "programmé",
+    "statut": "publié",
     "resultats": {
       "instagram": {
-        "statut": "nouvel essai",
-        "erreur": "Media ID is not available (code 9007, HTTP 400)",
-        "tentatives": 1
+        "statut": "publié",
+        "lien": "https://www.instagram.com/p/DgFdaeoDB2d/",
+        "le": "2026-11-23 14:12"
       },
       "facebook": {
         "statut": "publié",

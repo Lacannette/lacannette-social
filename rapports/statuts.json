@@ -199,5 +199,30 @@
         "le": "2026-11-23 12:54"
       }
     }
+  },
+  "2026-11-23-reel-3-etapes": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/reel/DgF-UDyANwm/",
+        "le": "2026-11-23 19:00"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/reel/1104322119329721",
+        "le": "2026-11-23 19:00"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-23 19:01"
+      },
+      "youtube": {
+        "statut": "publié",
+        "lien": "https://www.youtube.com/watch?v=0FTqLGKf09Q",
+        "le": "2026-11-23 19:01"
+      }
+    }
   }
 }

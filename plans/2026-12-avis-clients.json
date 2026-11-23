@@ -1,0 +1,66 @@
+{
+ "publications": [
+  {
+   "id": "2026-12-03-avis-mana",
+   "date": "2026-12-03 12:00",
+   "type": "carrousel",
+   "plateformes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+   ],
+   "medias": [
+    "contenu/2026-12/2026-12-03-avis-mana/01.jpg",
+    "contenu/2026-12/2026-12-03-avis-mana/02.jpg"
+   ],
+   "texte": "« Tout a été très professionnel du début à la fin, avec un excellent accompagnement. » ★★★★★\nMerci Alexandre et toute l’équipe de Mana Bowl & Juice !\nLeurs jus et smoothies sont désormais servis dans des canettes transparentes à leur logo, scellées sur place.\nEt vous ? Votre simulation gratuite et votre devis sur WhatsApp : 06 26 94 09 51.\n\nThank you Mana Bowl & Juice for your trust!\n\n#canettepersonnalisee #avisclient #jus #smoothie",
+   "statut": "programmé"
+  },
+  {
+   "id": "2026-12-03-stories-avis",
+   "date": "2026-12-03 09:00",
+   "type": "story",
+   "plateformes": [
+    "instagram",
+    "facebook"
+   ],
+   "medias": [
+    "contenu/2026-12/2026-12-03-stories-avis/01.jpg",
+    "contenu/2026-12/2026-12-03-stories-avis/02.jpg"
+   ],
+   "texte": "",
+   "statut": "programmé"
+  },
+  {
+   "id": "2026-12-10-avis-body-club",
+   "date": "2026-12-10 12:00",
+   "type": "carrousel",
+   "plateformes": [
+    "instagram",
+    "facebook",
+    "tiktok"
+   ],
+   "medias": [
+    "contenu/2026-12/2026-12-10-avis-body-club/01.jpg",
+    "contenu/2026-12/2026-12-10-avis-body-club/02.jpg"
+   ],
+   "texte": "« Le rendu est impeccable, le logo est parfaitement réalisé et le résultat est à la hauteur de mes attentes ! » ★★★★★\nMerci Paola et The Body Club !\nLeurs smoothies, à leur image : des canettes transparentes à leur logo, scellées en 3 secondes derrière le comptoir.\nVotre simulation gratuite et votre devis sur WhatsApp : 06 26 94 09 51.\n\nThank you The Body Club for your trust!\n\n#canettepersonnalisee #avisclient #smoothie #coffeeshop",
+   "statut": "programmé"
+  },
+  {
+   "id": "2026-12-10-stories-avis",
+   "date": "2026-12-10 09:00",
+   "type": "story",
+   "plateformes": [
+    "instagram",
+    "facebook"
+   ],
+   "medias": [
+    "contenu/2026-12/2026-12-10-stories-avis/01.jpg",
+    "contenu/2026-12/2026-12-10-stories-avis/02.jpg"
+   ],
+   "texte": "",
+   "statut": "programmé"
+  }
+ ]
+}

@@ -164,5 +164,20 @@
   },
   "2026-11-25-stories": {
     "statut": "annulé"
+  },
+  "2026-11-23-story-bf": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4036611593144317560",
+        "le": "2026-11-23 09:13"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "story publiée",
+        "le": "2026-11-23 09:13"
+      }
+    }
   }
 }

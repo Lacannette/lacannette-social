@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-23 | VIDEO | [ouvrir](https://www.instagram.com/reel/DgF-UDyANwm/) | Votre logo sur une canette, en 3 étapes. Envoyez votre logo, |
 | 2026-11-23 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DgFdaeoDB2d/) | Black Friday : −150 € sur les 3 packs. Découverte, Pro et Ul |
 | 2026-11-23 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DgFOQrkQqA_/) | Votre logo sur vos canettes, en 3 étapes : vous l’envoyez, v |
 | 2026-11-22 | IMAGE | [ouvrir](https://www.instagram.com/p/DgCindsN40w/) | Vendredi, quelque chose arrive. 👀 Activez les notifications  |
@@ -26,4 +27,3 @@
 | 2026-11-04 | IMAGE | [ouvrir](https://www.instagram.com/p/DfUTLzrCdpc/) | Le matcha du jour. 🍵 Une boisson qu’on voit à travers la can |
 | 2026-11-03 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfSa_2KDaa5/) | Vos questions, nos réponses (partie 1). 💬 Certification, log |
 | 2026-11-02 | IMAGE | [ouvrir](https://www.instagram.com/p/DfPJkIXCoNh/) | Tout ce qu’il faut pour démarrer, dans un seul pack. 🧾 Machi |
-| 2026-11-01 | IMAGE | [ouvrir](https://www.instagram.com/p/DfMd7I1ibH5/) | La saison 2027 se prépare maintenant. ☀️ Livraison standard  |

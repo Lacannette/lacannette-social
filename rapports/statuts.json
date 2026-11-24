@@ -239,5 +239,25 @@
         "le": "2026-11-24 09:43"
       }
     }
+  },
+  "2026-11-24-sondage-format": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/p/DgIjs0tFN3s/",
+        "le": "2026-11-24 19:05"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/1144589285401841_122138204919340795",
+        "le": "2026-11-24 19:05"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-24 19:05"
+      }
+    }
   }
 }

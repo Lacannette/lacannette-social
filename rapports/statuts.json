@@ -274,5 +274,25 @@
         "le": "2026-11-25 10:06"
       }
     }
+  },
+  "2026-11-25-noel-glace": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/p/DgKbRNIl5WE/",
+        "le": "2026-11-25 12:30"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/1144589285401841_122138363241340795",
+        "le": "2026-11-25 12:30"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-25 12:30"
+      }
+    }
   }
 }

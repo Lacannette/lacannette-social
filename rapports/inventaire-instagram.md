@@ -2,6 +2,7 @@
 
 | Date | Type | Lien | Début du texte |
 |---|---|---|---|
+| 2026-11-25 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DgKbRNIl5WE/) | Noël, version glacée. Le froid se vend aussi en décembre. Tr |
 | 2026-11-24 | IMAGE | [ouvrir](https://www.instagram.com/p/DgIjs0tFN3s/) | 330 ml ou 500 ml ? Le format change tout : la contenance, le |
 | 2026-11-23 | VIDEO | [ouvrir](https://www.instagram.com/reel/DgF-UDyANwm/) | Votre logo sur une canette, en 3 étapes. Envoyez votre logo, |
 | 2026-11-23 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DgFdaeoDB2d/) | Black Friday : −150 € sur les 3 packs. Découverte, Pro et Ul |
@@ -26,4 +27,3 @@
 | 2026-11-06 | IMAGE | [ouvrir](https://www.instagram.com/p/DfaF9DDkXkX/) | Encore 10 jours pour en profiter ! 🎃 Votre logo imprimé grat |
 | 2026-11-05 | IMAGE | [ouvrir](https://www.instagram.com/p/DfXklBQj_SQ/) | Scellée. Signée. Servie. ✅ Étanche, à votre logo, prête à em |
 | 2026-11-04 | IMAGE | [ouvrir](https://www.instagram.com/p/DfUTLzrCdpc/) | Le matcha du jour. 🍵 Une boisson qu’on voit à travers la can |
-| 2026-11-03 | CAROUSEL_ALBUM | [ouvrir](https://www.instagram.com/p/DfSa_2KDaa5/) | Vos questions, nos réponses (partie 1). 💬 Certification, log |

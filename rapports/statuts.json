@@ -309,5 +309,30 @@
         "le": "2026-11-26 09:16"
       }
     }
+  },
+  "2026-11-26-reel-vos-clients": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/reel/DgNr6a7hLeA/",
+        "le": "2026-11-26 18:53"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/reel/1451337510310701",
+        "le": "2026-11-26 18:53"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-26 18:54"
+      },
+      "youtube": {
+        "statut": "publié",
+        "lien": "https://www.youtube.com/watch?v=aogPP_wr_IQ",
+        "le": "2026-11-26 18:54"
+      }
+    }
   }
 }

@@ -349,5 +349,20 @@
         "le": "2026-11-27 08:55"
       }
     }
+  },
+  "2026-11-27-story-bf": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/stories/lacanettte/4039534394590724823",
+        "le": "2026-11-27 10:00"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "story publiée",
+        "le": "2026-11-27 10:00"
+      }
+    }
   }
 }

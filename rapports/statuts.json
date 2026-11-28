@@ -409,5 +409,25 @@
         "le": "2026-11-28 11:25"
       }
     }
+  },
+  "2026-11-28-bf-rappel": {
+    "statut": "publié",
+    "resultats": {
+      "instagram": {
+        "statut": "publié",
+        "lien": "https://www.instagram.com/p/DgSInBHDT26/",
+        "le": "2026-11-28 12:21"
+      },
+      "facebook": {
+        "statut": "publié",
+        "lien": "https://www.facebook.com/1144589285401841_122138890617340795",
+        "le": "2026-11-28 12:21"
+      },
+      "tiktok": {
+        "statut": "publié",
+        "lien": "publié via Zernio",
+        "le": "2026-11-28 12:21"
+      }
+    }
   }
 }
